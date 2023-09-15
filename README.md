@@ -12,5 +12,5 @@ Ce projet présente une modale contenant un formulaire d'inscription en ligne en
 
 ## Lancement de projet
 
-Télécharger le projet et lancer le fichier index.html
+https://ascean.github.io/GameOn/
 
